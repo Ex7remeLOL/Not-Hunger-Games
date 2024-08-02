@@ -1,0 +1,2172 @@
+{
+    "version": 1,
+    "events": {
+        "all": [
+            {
+                "message": "%0 throws a knife into %1's head.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 accidentally steps on a landmine.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 catches %1 off guard and kills %A1.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 work together to drown %2.",
+                "fatalities": [
+                    2
+                ],
+                "killers": [
+                    0,
+                    1
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 strangles %1 after engaging in a fist fight.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 shoots an arrow into %1's head.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 cannot handle the circumstances and commits suicide.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 bashes %1's head against a rock several times.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 decapitates %1 with a sword.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 spears %1 in the abdomen.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 sets %1 on fire with a molotov.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 falls into a pit and dies.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 stabs %1 while %G1 back is turned.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 severely injures %1, but puts %A1 out of %G1 misery.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 severely injures %1 and leaves %A1 to die.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 bashes %1's head in with a mace.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 pushes %1 off a cliff during a knife fight.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 throws a knife into %1's chest.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 is unable to convince %1 to not kill %A0.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [
+                    1
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 convinces %1 to not kill %A0, only to kill %A1 instead.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 falls into a frozen lake and drowns.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, and %2 start fighting, but %1 runs away as %0 kills %2.",
+                "fatalities": [
+                    2
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 kills %1 with %G1 own weapon.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 overpowers %1, killing %A1.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 sets an explosive off, killing %1.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 sets an explosive off, killing %1, and %2.",
+                "fatalities": [
+                    1,
+                    2
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 sets an explosive off, killing %1, %2, and %3.",
+                "fatalities": [
+                    1,
+                    2,
+                    3
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 sets an explosive off, killing %1, %2, %3 and %4.",
+                "fatalities": [
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 kills %1 as %N1 tr%y1 to run.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 threaten a double suicide. It fails and they die.",
+                "fatalities": [
+                    0,
+                    1
+                ],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, %2, and %3 form a suicide pact, killing themselves.",
+                "fatalities": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 kills %1 with a hatchet.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 fight %2 and %3. %0 and %1 survive.",
+                "fatalities": [
+                    2,
+                    3
+                ],
+                "killers": [
+                    0,
+                    1
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 fight %2 and %3. %2 and %3 survive.",
+                "fatalities": [
+                    0,
+                    1
+                ],
+                "killers": [
+                    2,
+                    3
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 attacks %1, but %2 protects %A1, killing %0.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [
+                    2
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 severely slices %1 with a sword.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 strangles %1 with a rope.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 kills %1 for %G1 supplies.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 shoots an arrow at %1, but misses and kills %2 instead.",
+                "fatalities": [
+                    2
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 shoots a poisonous blow dart into %1's neck, slowly killing %A1.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 stabs %1 with a tree branch.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 stabs %1 in the back with a trident.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, and %2 get into a fight. %0 triumphantly kills them both.",
+                "fatalities": [
+                    1,
+                    2
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, and %2 get into a fight. %1 triumphantly kills them both.",
+                "fatalities": [
+                    0,
+                    2
+                ],
+                "killers": [
+                    1
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, and %2 get into a fight. %2 triumphantly kills them both.",
+                "fatalities": [
+                    0,
+                    1
+                ],
+                "killers": [
+                    2
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 kills %1 with a sickle.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 repeatedly stabs %1 to death with sais.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 incorporates %1 as a substrate.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 hunts and eats a pidgin.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 form a creole together.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 harvests a wanderwort.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 takes a calqueulated risk.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 realise they're from the same language family and form an alliance.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 betrays %1—%0 was a false friend!",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "While discussing plans with an ally, %0 accidentally uses an exclusive ‘we’ instead of inclusive, sparking civil war.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "Trapped in %0’s snare, %1 has to remove one of %G1 cases to escape.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 is feeling tense.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 invents pictographic marking to note dangerous parts of the arena.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 adapts %1’s symbols, and scrawls grave insults to agitate and distract the other competitors.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 labours under the illusion %N0 %i0 ‘pure’ and goes on a rampage, killing %1 and %2 and forcing all others to flee.",
+                "fatalities": [
+                    1,
+                    2
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 manages to evolve /tʼ/ into poisonous spit and blinds %1.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 loses some coda consonants in a scrap with %1 but manages to innovate some tones to maintain the distinctiveness between its phonemes.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 undergoes flagrant mergers, resulting in widespread homophony. %N0 then make%s0 many puns, resulting in %1 and %2 ambushing and killing %A0.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [
+                    1,
+                    2
+                ],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "Following %0 and %1’s alliance, they grow closer and undergo ‘cultural synthesis’. They enjoy the experience, and though they then part ways, they leave an everlasting impression on one another.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "Fed up with %0 insisting %N0 %i0 the \"mother of all languages,\" %1 and %2 brutally strangle %A0 and bond over the experience.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [
+                    1,
+                    2
+                ],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 gets sick and can now only produce nasal vowels.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": false,
+                "type": "BIG LANG",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, %2 and %3 walk in to a building, knowing it is rigged with nuclear explosives. They all (unsurprisingly) die.",
+                "fatalities": [
+                    3
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "CUSTOM",
+                "tag_requirements": []
+            }
+        ],
+        "bloodbath": [
+            {
+                "message": "%0 runs away from the Cornucopia.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 grabs a shovel.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 grabs a backpack and retreats.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 fight for a bag. %0 gives up and retreats.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 fight for a bag. %1 gives up and retreats.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 finds a bow, some arrows, and a quiver.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 runs into the cornucopia and hides.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 finds a canteen full of water.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 stays at the cornucopia for resources.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 gathers as much food as %N0 can.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 grabs a sword.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 takes a spear from inside the cornucopia.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 finds a bag full of explosives.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 clutches a first aid kit and runs away.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 takes a sickle from inside the cornucopia.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, and %2 work together to get as many supplies as possible.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 runs away with a lighter and some rope.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 snatches a bottle of alcohol and a rag.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 finds a backpack full of camping equipment.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 grabs a backpack, not realizing it is empty.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 breaks %1's nose for a basket of bread.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, %2, and %3 share everything they gathered before running.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 retrieves a trident from inside the cornucopia.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 grabs a jar of fishing bait while %1 gets fishing gear.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 scares %1 away from the cornucopia.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 grabs a shield leaning on the cornucopia.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 snatches a pair of sais.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 steps off %G0 podium too soon and blows up.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 finds %1 hiding in the cornucopia and kills %A1.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 finds %1 hiding in the cornucopia, but %1 kills %A0.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [
+                    1
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 fight for a bag. %0 strangles %1 with the straps and runs.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 fight for a bag. %1 strangles %0 with the straps and runs.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [
+                    1
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 fall in to Rayhan's basement. They die.",
+                "fatalities": [
+                    2
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "CUSTOM",
+                "tag_requirements": []
+            }
+        ],
+        "day": [
+            {
+                "message": "%0 goes hunting.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 injures %R0.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 explores the arena.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 scares %1 off.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 diverts %1's attention and runs away.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 stalks %1.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 fishes.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 camouflages %R0 in the bushes.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 steals from %1 while %N1 %!1 looking.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 makes a wooden spear.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 discovers a cave.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 attacks %1, but %N1 manage%s1 to escape.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 chases %1.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 runs away from %1.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 collects fruit from a tree.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 receives a hatchet from an unknown sponsor.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 receives clean water from an unknown sponsor.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 receives medical supplies from an unknown sponsor.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 receives fresh food from an unknown sponsor.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 searches for a water source.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 defeats %1 in a fight, but spares %G1 life.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 work together for the day.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 begs for %1 to kill %A0. %N1 refuse%s1, keeping %0 alive.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 tries to sleep through the entire day.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, %2, and %3 raid %4's camp while %N4 %i4 hunting.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 constructs a shack.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 overhears %1 and %2 talking in the distance.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 practices %G0 archery.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 thinks about home.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 is pricked by thorns while picking berries.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 tries to spear fish with a trident.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 searches for firewood.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 split up to search for resources.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 picks flowers.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 tends to %1's wounds.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 sees smoke rising in the distance, but decides not to investigate.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 sprains %G0 ankle while running away from %1.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 makes a slingshot.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 travels to higher ground.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 discovers a river.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 hunts for other tributes.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 hunt for other tributes.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, and %2 hunt for other tributes.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, %2, and %3 hunt for other tributes.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, %2, %3, and %4 hunt for other tributes.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 receives an explosive from an unknown sponsor.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 questions %G0 sanity.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 kills %1 while %N1 %i1 resting.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 begs for %1 to kill %A0. %N1 reluctantly oblige%s1, killing %0.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [
+                    1
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 bleeds out due to untreated injuries.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 unknowingly eats toxic berries.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 silently snaps %1's neck.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 taints %1's food, killing %A1.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 dies from an infection.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0's trap kills %1.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 dies from hypothermia.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 dies from hunger.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 dies from thirst.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 dies trying to escape the arena.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 dies of dysentery.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 accidentally detonates a land mine while trying to arm it.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 ambushes %1 and kills %A1.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, and %2 successfully ambush and kill %3, %4, and %5.",
+                "fatalities": [
+                    3,
+                    4,
+                    5
+                ],
+                "killers": [
+                    0,
+                    1,
+                    2
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, and %2 unsuccessfully ambush %3, %4, and %5, who kill them instead.",
+                "fatalities": [
+                    0,
+                    1,
+                    2
+                ],
+                "killers": [
+                    3,
+                    4,
+                    5
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 forces %1 to kill %2 or %3. %N1 decide%s1 to kill %2.",
+                "fatalities": [
+                    2
+                ],
+                "killers": [
+                    1
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 forces %1 to kill %2 or %3. %N1 decide%s1 to kill %3.",
+                "fatalities": [
+                    3
+                ],
+                "killers": [
+                    1
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 forces %1 to kill %2 or %3. %N1 refuse%s1 to kill, so %0 kills %A1 instead.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 poisons %1's drink, but mistakes it for %G0 own and dies.",
+                "fatalities": [
+                    0
+                ],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 poisons %1's drink. %N1 drink%s1 it and die%s1.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 attempts to climb a tree, but falls on %1, killing them both.",
+                "fatalities": [
+                    0,
+                    1
+                ],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, %2, %3, and %4 track down and kill %5.",
+                "fatalities": [
+                    5
+                ],
+                "killers": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, %2, and %3 track down and kill %4.",
+                "fatalities": [
+                    4
+                ],
+                "killers": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, and %2 track down and kill %3.",
+                "fatalities": [
+                    3
+                ],
+                "killers": [
+                    0,
+                    1,
+                    2
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 track down and kill %2.",
+                "fatalities": [
+                    2
+                ],
+                "killers": [
+                    0,
+                    1
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 tracks down and kills %1.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            }
+        ],
+        "feast": [
+            {
+                "message": "%0 gathers as much food into a bag as %N0 can before fleeing.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 sobs while gripping a photo of %G0 friends and family.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 decide to work together to get more supplies.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 get into a fight over raw meat, but %1 gives up and runs away.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 get into a fight over raw meat, but %0 gives up and runs away.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, and %2 confront each other, but grab what they want slowly to avoid conflict.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 destroys %1's memoirs out of spite.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, %2, and %3 team up to grab food, supplies, weapons, and memoirs.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 steals %1's memoirs.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 takes a staff leaning against the cornucopia.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 stuffs a bundle of dry clothing into a backpack before sprinting away.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 snaps %1's neck.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            }
+        ],
+        "night": [
+            {
+                "message": "%0 starts a fire.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 sets up camp for the night.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 loses sight of where %N0 %i0.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 climbs a tree to rest.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 goes to sleep.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 tell stories about themselves to each other.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, %2, and %3 sleep in shifts.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, and %2 sleep in shifts.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 sleep in shifts.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 tends to %G0 wounds.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 sees a fire, but stays hidden.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 screams for help.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 stays awake all night.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 passes out from exhaustion.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 cooks %G0 food before putting %G0 fire out.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 run into each other and decide to truce for the night.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 fends %1, %2, and %3 away from %G0 fire.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, and %2 discuss the games and what might happen in the morning.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 cries %R0 to sleep.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 tries to treat %G0 infection.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 talk about the tributes still alive.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 is awoken by nightmares.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 huddle for warmth.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 thinks about winning.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, %2, and %3 tell each other ghost stories to lighten the mood.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 looks at the night sky.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 destroys %1's supplies while %N1 %i1 asleep.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, %2, %3, and %4 sleep in shifts.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 lets %1 into %G0 shelter.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 tries to sing %R0 to sleep.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 attempts to start a fire, but is unsuccessful.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 quietly hums.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0, %1, and %2 cheerfully sing songs together.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 is unable to start a fire and sleeps without warmth.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 and %1 hold hands.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 convinces %1 to snuggle with %A0.",
+                "fatalities": [],
+                "killers": [],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            },
+            {
+                "message": "%0 kills %1 while %N1 %i1 sleeping.",
+                "fatalities": [
+                    1
+                ],
+                "killers": [
+                    0
+                ],
+                "enabled": true,
+                "type": "BUILTIN",
+                "tag_requirements": []
+            }
+        ]
+    },
+    "tags": []
+}
